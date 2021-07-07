@@ -1,0 +1,2 @@
+Vim it's a complex text editor program.
+Mainly becouse it's a command line text editor.
