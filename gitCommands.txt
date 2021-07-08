@@ -1,0 +1,10 @@
+git commands
++++++++++++++++++++
+init       : to start a local respository (will create de .git file)
+status     : to see weather or not there were changes with the previous version (moddified, added, removed files, etc)
+add {file} : to add a new file to the local repository history (this will only take in consideration the file but not commit it contents)
+add .      : to add everything in the local folder where the .git is
+commit -m  : to commit, to save the new changes in the local repository. The -m is to add a message to the commit eg:"Finish Class1"
+log        : it will show you the history of commits made
+checkout   : it will rollback to the previous version (restore all uncommited changes)
+diff {file}: it will show you the differences between the last commited version and the new changes of the file selected
